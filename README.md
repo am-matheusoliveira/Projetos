@@ -3,7 +3,7 @@
 
 
 
-|  #  | Project                                                                                                                     | Ao Vivo                                                                         |
+|  #  | Projetos                                                                                                                     | Ao Vivo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Busca usuario tempo real ajax api](https://github.com/am-matheusoliveira/Projetos/tree/main/busca-usuario-tempo-real-ajax-api)                             | [Ao Vivo](http://am-matheusoliveira.infinityfreeapp.com/busca-usuario-tempo-real-ajax-api/)               |
 | 02  | [Busca usuarios com api ajax js puro](https://github.com/am-matheusoliveira/Projetos/tree/main/busca-usuarios-com-api-ajax_js_puro)                               | [Ao Vivo](http://am-matheusoliveira.infinityfreeapp.com/busca-usuarios-com-api-ajax_js_puro/)                |
